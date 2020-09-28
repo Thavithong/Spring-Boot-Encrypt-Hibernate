@@ -1,0 +1,3 @@
+com\unitel\api\unitel\StartClass.class
+com\unitel\api\common\utils\EncryptDecryptUtils.class
+com\unitel\api\unitel\controller\AppVersion.class
